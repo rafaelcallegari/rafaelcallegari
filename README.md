@@ -4,7 +4,7 @@
 - 😄 Pronouns: ele/dele
 - 👾  Tenho 20 anos e sou uma pessoa que é muito conectado com a cultura geek e levo isso como um certo hobbie
 - 👨‍💻  Sou formado em Analise e Desenvolvimento de Sistemas pela FATEC Antonio Russo e busco uma oportunidade na área de Desenvolvimento Front-end!
-- 📚  Atuamente venho estudando:
+- 📚  Atuamente venho estudando:<br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>  
 - 📫  Minhas plataformas para contato:
 <div>
