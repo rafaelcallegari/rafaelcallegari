@@ -1,7 +1,6 @@
 # Olá, Meu nome é Rafael Dos Santos Callegari👋<br>
 ## Seja bem vindo ao meu perfil Github
 
-- 😄 Pronouns: ele/dele
 - 👾  Tenho 20 anos e sou uma pessoa que é muito conectado com a cultura geek e levo isso como um certo hobbie
 - 👨‍💻  Sou formado em Analise e Desenvolvimento de Sistemas pela FATEC Antonio Russo e busco uma oportunidade na área de Desenvolvimento Front-end!
 - 📚  Atuamente venho estudando:<br>
