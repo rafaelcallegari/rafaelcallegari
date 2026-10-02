@@ -2,7 +2,7 @@
 
 Desenvolvedor em São Paulo, com foco em **dados, automação e IA aplicada**.
 
-- Estagiário no **Itaú Unibanco**, criando automações e integrando IA aos processos do dia a dia dos times
+- Estagiário no **Itaú Unibanco**, criando automações e integrando IA aos processos do dia a dia
 - Finalista do **Talentos em Ação Itaú**, programa em que estagiários desenvolvem soluções para casos reais do banco
 - Pós-graduado em **Machine Learning** pela FIAP
 - Cursando tecnólogo em **Banco de Dados** na FAM · tecnólogo em **Análise e Desenvolvimento de Sistemas** pela FATEC
