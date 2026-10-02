@@ -22,12 +22,13 @@ Desenvolvedor em São Paulo, com foco em **dados, automação e IA aplicada**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="36" alt="TypeScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36" alt="AWS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="36" alt="Linux">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="36" alt="Git">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="36" alt="Vercel">
+  <img src="assets/powerautomate.svg" height="36" alt="Power Automate">
+  <img src="assets/sharepoint.svg" height="36" alt="SharePoint">
 </p>
 
-**Também:** SQL · Machine Learning · Agentes de IA · Power Automate
+**Também:** SQL · Machine Learning · Agentes de IA
 
 ## Trajetória
 
